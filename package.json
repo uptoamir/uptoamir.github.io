@@ -9,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "postbuild": "node copy-static-files.js",
-    "deploy": "npm run build && npm run postbuild && gh-pages -d dist"
+    "deploy": "yarn build && yarn postbuild && gh-pages -d dist"
   },
   "devDependencies": {
     "vite": "^4.1.0",

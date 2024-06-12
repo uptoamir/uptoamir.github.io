@@ -2,7 +2,6 @@ import { defineConfig } from "vite";
 import path from "path";
 
 export default defineConfig({
-  // publicDir: './static/',
   base: "/",
   resolve: {
     alias: {
@@ -10,7 +9,7 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: "./dist",
+    outDir: "dist",
     emptyOutDir: true,
     sourcemap: true,
   },
