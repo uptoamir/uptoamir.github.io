@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import path from "path";
 
 export default defineConfig({
-  publicDir: './static/',
+  // publicDir: './static/',
   base: "/",
   resolve: {
     alias: {
