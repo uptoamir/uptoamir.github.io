@@ -1,0 +1,285 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Amirhossein Khoshbin",
+    "label": "Software Engineer",
+    "image": "./avatar.jpeg",
+    "email": "khoshbinamirhosein@gmail.com",
+    "url": "https://uptoamir.github.io",
+    "website": "https://uptoamir.github.io",
+    "summary": "Since high school, coding has captivated me, leading to a Computer Engineering degree. With 6 years of experience as a software developer, I specialize in front-end engineering, server-side, django development, DevOps, application and product design. Passionate about startups and product innovation, My career objective is to solve tech problems in whole software cycle no matter what tools are used, focusing on developing scalable technologies.",
+    "location": {
+      "city": "Hamilton",
+      "countryCode": "CA",
+      "region": "Ontario"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "uptoamir",
+        "url": "https://twitter.com/uptoamir"
+      },
+      {
+        "network": "Github",
+        "username": "uptoamir",
+        "url": "https://github.com/uptoamir"
+      },
+      {
+        "network": "Linkedin",
+        "username": "Amir Khoshbin",
+        "url": "https://www.linkedin.com/in/amirhossein-khoshbin-4011a8198/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Black Phoenix",
+      "location": "Hamilton, Canada",
+      "description": "Healthcare Startup",
+      "position": "Software Engineer & CTO & Product manager",
+      "url": "https://blackphoenix.ca/",
+      "startDate": "2019-08-01",
+      "summary": "I am responsible for creating MVPs on my own and later, leading a team of four software engineers, I focused on finding scalable solutions and mentoring, enhancing both our technical skills and team growth.",
+      "highlights": [
+        " Raised $100,000 in funds",
+        " Designed and Implemented MVP apps collaborating with stakeholders using React, Nextjs, Netlify, React-Query, TailwindCSS, Figma, MUI, Redux, Redux-toolkit, MUI, TypeScript(ES6+), SASS, LESS, and Styled-Components  followed by TDD using Jest, Cypress and Django on backend showcasing rapid prototyping and agile development capabilities.",
+        " Implemented django services",
+        " Distributed systems on k8s",
+        " Implemented security enhancements against XSS, CSRF, and SQL injection attacks",
+        " Designed and implemented CI/CD Pipeline Development with Docker",
+        " Designed a Implemented website using Next.js and SEO Performance Optimization",
+        " Implementing application using react-native and expo",
+        " Taught my colleagues about software engineering process, how to write code with python and how to work with different databases",
+        " Set up sprint sessions and planed for future goals and the way to achieve them",
+        " Clarify our vision and mission",
+        " Marketing research and competitor analysis"
+      ]
+    },
+    {
+      "name": "Coinson",
+      "location": "Dubai, UA",
+      "description": "Copytrading company in Dubai",
+      "position": "Frontend software engineer Lead",
+      "url": "https://coinson.co/",
+      "startDate": "2022-06-01",
+      "endDate": "2023-11-01",
+      "summary": "Implemented Crypto copy trading platform, enabling users to automatically copy the trades of experienced cryptocurrency traders",
+      "highlights": [
+        "Designed and implemented platform using Next.js, Typescript, Tailwind and Mui",
+        "Redesigned and developed a crypto trading platform's frontend with React, Webpack, Nextjs, TypeScript and Server-side rendering, using Tailwind CSS, MUI and i18 for enhanced responsiveness, and code reusability to implement DRY principle,  boosting daily active users by 15%.",
+        "Deployed CI/CD pipelines using gitlab-ci",
+        "Translating Figma design mockups into implementation.",
+        "I have also mentored two junior developers within the team and teaching them software engineering process",
+        "Contributed to the backend team by enhancing API call functionalities and implementing solutions in Django"
+      ]
+    },
+    {
+      "name": "Nilva",
+      "location": "Tehran, Tehran",
+      "description": "Startup around making softwares",
+      "position": "Front Software engineer",
+      "url": "https://nilva.ir/",
+      "startDate": "2021-06-01",
+      "endDate": "2022-07-01",
+      "highlights": [
+        "Built a mobile-first responsive SPA app from scratch using React, Next.js, Storybook and TypeScript with +10,000 daily active users, including farmers, to manage properties and lands.",
+        "Designed CI/CD pipelin on frontend using docker",
+        "Implemented backend functionalities using Django"
+      ]
+    },
+    {
+      "name": "Technosaze",
+      "location": "Tehran, Tehran",
+      "description": "Startup around making civil engineering",
+      "position": "Software engineer",
+      "url": "https://technosaze.com/",
+      "startDate": "2020-10-01",
+      "endDate": "2021-05-01",
+      "highlights": [
+        "Designed and implemented a genetic algorithm for optimizing building material selection using python, integrated with ETABS, which improved material efficiency by 15%.",
+        "Led a team of three, including software and civil engineers, to develop a heuristic optimization algorithm."
+      ]
+    },
+    {
+      "name": "Taha",
+      "location": "Tehran, Tehran",
+      "description": "Startup around making softwares",
+      "position": "Frontend software engineer",
+      "url": "https://Taha.ai/",
+      "startDate": "2019-11-01",
+      "endDate": "2020-10-01",
+      "highlights": [
+        "Developed a real-time audio and video processing application for facial sentiment analysis using React, Angular, ScriptJs, and JavaScript, OpenCV.",
+        "Implemented local video save management, accommodating multiple types of results for enhanced data handling and retrieval."
+      ]
+    },
+    {
+      "name": "Daraya",
+      "location": "Tehran, Tehran",
+      "description": "Copytrading in Tehran",
+      "position": "Backend software engineer",
+      "url": "https://daraya.ir/",
+      "startDate": "2018-08-01",
+      "endDate": "2019-08-01",
+      "highlights": [
+        "Developed Python and Golang libraries for real-time cryptocurrency trading using the Kucoin API",
+        "Implemented Redis for data caching and PostgreSQL",
+        "Learned about python and golang",
+        "Learned about scrum and agile methodologies",
+        "Learned about docker and k8s"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Amirkabir University of Technology ",
+      "position": "Instructor, Advanced Programming lab",
+      "startDate": "2022-03",
+      "endDate": "2022-07"
+    },
+    {
+      "organization": "Amirkabir University of Technology ",
+      "position": "Instructor, Fundamental of Programming lab",
+      "startDate": "2021-08",
+      "endDate": "2022-02"
+    },
+    {
+      "organization": "Amirkabir University of Technology ",
+      "position": "Teaching Assistant, Advanced Programming",
+      "startDate": "2019-02",
+      "endDate": "2019-06"
+    },
+    {
+      "organization": "Amirkabir University of Technology ",
+      "position": "Teaching Assistant, Computer architecture",
+      "startDate": "2020-09",
+      "endDate": "2020-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Amirkabir University of Technology",
+      "url": "http://aut.ac.ir",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2017-09-01",
+      "endDate": "2021-07-01",
+      "courses": [
+        "Fundamental of Programming",
+        "Advanced Programming",
+        "Data Structures",
+        "Algorithm Design",
+        "Linear Algebra",
+        "Database Design",
+        "Information Retrieval",
+        "Data Mining",
+        "Software Engineering",
+        "Computer Architecture",
+        "Compiler Design",
+        "Programming Languages",
+        "Computational Inteligence",
+        "Artificial Inteligence",
+        "Signals & Systems",
+        "Statistics",
+        "Multicore Programming",
+        "Information Security",
+        "Data Comunication",
+        "Interface Circuit Design",
+        "Microprocessor and Assembly Language",
+        "Operating Systems"
+      ]
+    },
+    {
+      "institution": "Kamal",
+      "area": "Math & Physics",
+      "studyType": "Diploma",
+      "startDate": "2013-06-01",
+      "endDate": "2017-06-01",
+      "score": "19.78/20.00"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Placed among top 0.2% of the students in the Iranian University Entrance Exam",
+      "date": "2017-06-01",
+      "summary": "Ranked 397 in the Iranian University Entrance Exam"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Industrial Knowledge",
+      "keywords": [
+        "Distributed Systems",
+        "Product Design",
+        "Linear Algebra",
+        "Statistics",
+        "Product Management"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": ["Typescript", "C", "Python", "Go", "Java"]
+    },
+    {
+      "name": "Database",
+      "keywords": ["Postgresql", "Mysql", "Mongodb", "Redis"]
+    },
+    {
+      "name": "Data Engineering",
+      "keywords": ["Apache Hadoop"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual Proficiency"
+    },
+    {
+      "language": "Persian",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Chess"
+    },
+    {
+      "name": "Movies"
+    },
+    {
+      "name": "Video Games"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Multicore Programming",
+      "description": "Calculating determinant of matrices in parallel, using OpenMP(CPU) and CUDA(GPU)",
+      "keywords": ["C", "Multicore"],
+      "url": "https://github.com/uptoamir/Multicore-Programming-Project",
+      "type": "application"
+    },
+    {
+      "name": "Cloud Computing",
+      "description": "K8s and Performing data mining tasks on the US election dataset using Apache Hadoop",
+      "keywords": [],
+      "url": "https://github.com/uptoamir/Cloud-Computing",
+      "type": "application"
+    },
+    {
+      "name": "JTanks",
+      "description": "A multi-player 2D game called JTanks (Using Swing on GUI)",
+      "url": "https://github.com/uptoamir/JTanks-2D-Game-Java",
+      "type": "application"
+    },
+    {
+      "name": "18SpaceWreck MadMaze",
+      "description": "A graph is implemented using linked list and using backtracking algorithm to solve the problem",
+      "url": "https://github.com/uptoamir/18SpaceWreck-MadMaze-"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2021-11-02T21:46:00"
+  }
+}
