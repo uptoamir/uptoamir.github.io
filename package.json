@@ -9,10 +9,11 @@
     "build": "vite build",
     "preview": "vite preview",
     "postbuild": "node copy-static-files.js",
-    "deploy": "vite build && npm run postbuild && git add dist -f && git commit -m 'Deploy' && git push origin `git subtree split --prefix dist main`:gh-pages --force"
-  },  
+    "deploy": "npm run build && npm run postbuild && gh-pages -d dist"
+  },
   "devDependencies": {
-    "vite": "^4.1.0"
+    "vite": "^4.1.0",
+    "gh-pages": "^4.0.0"
   },
   "dependencies": {
     "black-engine": "^0.5.16",
