@@ -17,7 +17,7 @@
       {
         "network": "Twitter",
         "username": "uptoamir",
-        "url": "https://twitter.com/uptoamir"
+        "url": "https://x.com/uptoamir"
       },
       {
         "network": "Github",
@@ -26,7 +26,7 @@
       },
       {
         "network": "Linkedin",
-        "username": "Amir Khoshbin",
+        "username": "Amirhossein Khoshbin",
         "url": "https://www.linkedin.com/in/amirhossein-khoshbin-4011a8198/"
       }
     ]
@@ -36,7 +36,7 @@
       "name": "Black Phoenix",
       "location": "Hamilton, Canada",
       "description": "Healthcare Startup",
-      "position": "Software Engineer & CTO & Product manager",
+      "position": "Software Engineer & Co-founder",
       "url": "https://blackphoenix.ca/",
       "startDate": "2019-08-01",
       "summary": "I am responsible for creating MVPs on my own and later, leading a team of four software engineers, I focused on finding scalable solutions and mentoring, enhancing both our technical skills and team growth.",
@@ -53,64 +53,6 @@
         " Set up sprint sessions and planed for future goals and the way to achieve them",
         " Clarify our vision and mission",
         " Marketing research and competitor analysis"
-      ]
-    },
-    {
-      "name": "Coinson",
-      "location": "Dubai, UA",
-      "description": "Copytrading company in Dubai",
-      "position": "Frontend software engineer Lead",
-      "url": "https://coinson.co/",
-      "startDate": "2022-06-01",
-      "endDate": "2023-11-01",
-      "summary": "Implemented Crypto copy trading platform, enabling users to automatically copy the trades of experienced cryptocurrency traders",
-      "highlights": [
-        "Designed and implemented platform using Next.js, Typescript, Tailwind and Mui",
-        "Redesigned and developed a crypto trading platform's frontend with React, Webpack, Nextjs, TypeScript and Server-side rendering, using Tailwind CSS, MUI and i18 for enhanced responsiveness, and code reusability to implement DRY principle,  boosting daily active users by 15%.",
-        "Deployed CI/CD pipelines using gitlab-ci",
-        "Translating Figma design mockups into implementation.",
-        "I have also mentored two junior developers within the team and teaching them software engineering process",
-        "Contributed to the backend team by enhancing API call functionalities and implementing solutions in Django"
-      ]
-    },
-    {
-      "name": "Nilva",
-      "location": "Tehran, Tehran",
-      "description": "Startup around making softwares",
-      "position": "Front Software engineer",
-      "url": "https://nilva.ir/",
-      "startDate": "2021-06-01",
-      "endDate": "2022-07-01",
-      "highlights": [
-        "Built a mobile-first responsive SPA app from scratch using React, Next.js, Storybook and TypeScript with +10,000 daily active users, including farmers, to manage properties and lands.",
-        "Designed CI/CD pipelin on frontend using docker",
-        "Implemented backend functionalities using Django"
-      ]
-    },
-    {
-      "name": "Technosaze",
-      "location": "Tehran, Tehran",
-      "description": "Startup around making civil engineering",
-      "position": "Software engineer",
-      "url": "https://technosaze.com/",
-      "startDate": "2020-10-01",
-      "endDate": "2021-05-01",
-      "highlights": [
-        "Designed and implemented a genetic algorithm for optimizing building material selection using python, integrated with ETABS, which improved material efficiency by 15%.",
-        "Led a team of three, including software and civil engineers, to develop a heuristic optimization algorithm."
-      ]
-    },
-    {
-      "name": "Taha",
-      "location": "Tehran, Tehran",
-      "description": "Startup around making softwares",
-      "position": "Frontend software engineer",
-      "url": "https://Taha.ai/",
-      "startDate": "2019-11-01",
-      "endDate": "2020-10-01",
-      "highlights": [
-        "Developed a real-time audio and video processing application for facial sentiment analysis using React, Angular, ScriptJs, and JavaScript, OpenCV.",
-        "Implemented local video save management, accommodating multiple types of results for enhanced data handling and retrieval."
       ]
     },
     {
@@ -156,55 +98,7 @@
       "endDate": "2020-01"
     }
   ],
-  "education": [
-    {
-      "institution": "Amirkabir University of Technology",
-      "url": "http://aut.ac.ir",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2017-09-01",
-      "endDate": "2021-07-01",
-      "courses": [
-        "Fundamental of Programming",
-        "Advanced Programming",
-        "Data Structures",
-        "Algorithm Design",
-        "Linear Algebra",
-        "Database Design",
-        "Information Retrieval",
-        "Data Mining",
-        "Software Engineering",
-        "Computer Architecture",
-        "Compiler Design",
-        "Programming Languages",
-        "Computational Inteligence",
-        "Artificial Inteligence",
-        "Signals & Systems",
-        "Statistics",
-        "Multicore Programming",
-        "Information Security",
-        "Data Comunication",
-        "Interface Circuit Design",
-        "Microprocessor and Assembly Language",
-        "Operating Systems"
-      ]
-    },
-    {
-      "institution": "Kamal",
-      "area": "Math & Physics",
-      "studyType": "Diploma",
-      "startDate": "2013-06-01",
-      "endDate": "2017-06-01",
-      "score": "19.78/20.00"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Placed among top 0.2% of the students in the Iranian University Entrance Exam",
-      "date": "2017-06-01",
-      "summary": "Ranked 397 in the Iranian University Entrance Exam"
-    }
-  ],
+  "awards": [],
   "skills": [
     {
       "name": "Industrial Knowledge",
