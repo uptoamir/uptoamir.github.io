@@ -245,6 +245,8 @@ class BaseScene {
       mesh.addEventListener("click", (event) => {
         const iframe = document.getElementById("iframe");
         iframe.style.visibility = "hidden";
+        iframe.style.display = "none";
+        iframe.style.zIndex = "-1";
         this._controls.enabled = true;
         new TWEEN.Tween(this._camera.position)
           .to(
@@ -409,6 +411,8 @@ class BaseScene {
                 this._closeIcon.visible = true;
                 const iframe = document.getElementById("iframe");
                 iframe.style.visibility = "visible";
+                iframe.style.display = "block";
+                iframe.style.zIndex = "9999";
               });
           })
           .start();
